@@ -1,0 +1,23 @@
+# Generated synthetic data
+bronze/
+
+# Generated metadata
+metadata/*.csv
+
+# Temporary files
+scripts/tmp/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+metadata/*.parquet
